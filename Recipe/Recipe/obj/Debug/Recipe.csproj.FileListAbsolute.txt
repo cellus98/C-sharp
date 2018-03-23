@@ -1,0 +1,15 @@
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\bin\Debug\Recipe.exe.config
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\bin\Debug\Recipe.exe
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\bin\Debug\Recipe.pdb
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.csprojResolveAssemblyReference.cache
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.Properties.Resources.resources
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.csproj.GenerateResource.Cache
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.csproj.CoreCompileInputs.cache
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.exe
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.pdb
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.RecipeBook.resources
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.csproj.ResolveComReference.cache
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.RecipeBookControl.resources
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.RecipeBookMultipleControl.resources
+C:\Users\v-mase\Desktop\C#\Recipe\Recipe\obj\Debug\Recipe.DataGridControl.resources
