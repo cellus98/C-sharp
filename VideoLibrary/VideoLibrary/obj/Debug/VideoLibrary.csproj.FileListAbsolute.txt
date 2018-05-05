@@ -1,0 +1,17 @@
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.exe.config
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.exe
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.pdb
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.csproj.ResolveComReference.cache
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.DisplayControl.resources
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.VideoLibrary.resources
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.Properties.Resources.resources
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.csproj.GenerateResource.Cache
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.exe
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.pdb
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.VideoLibraryControl.resources
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.SearchControl.resources
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\Interop.EnvDTE.dll
+C:\Users\v-mase\source\repos\VideoLibrary\VideoLibrary\obj\Debug\Interop.EnvDTE80.dll
